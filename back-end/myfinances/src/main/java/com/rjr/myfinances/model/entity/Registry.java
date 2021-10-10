@@ -19,6 +19,9 @@ import javax.persistence.Table;
 import org.hibernate.annotations.ManyToAny;
 import org.springframework.data.convert.Jsr310Converters;
 
+import com.rjr.myfinances.model.enums.StatusOfRegistry;
+import com.rjr.myfinances.model.enums.TypeOfRegistry;
+
 import lombok.Builder;
 import lombok.Data;
 

@@ -1,4 +1,4 @@
-package com.rjr.myfinances.model.entity;
+package com.rjr.myfinances.model.enums;
 
 public enum TypeOfRegistry {
 	REVENUE,
